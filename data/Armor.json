@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "image" : "https://blenderartists.org/uploads/default/original/4X/9/e/b/9eb3dc89011aa13f04253e96836825360c0512c0.png",
+        "descrition" : "Greymon",
+        "level" : "Armor"
+    },
+    {
+        "id" : 2,
+        "image" : "https://cdna.artstation.com/p/assets/images/images/018/806/400/large/kristijan-hvasta-render-1.jpg?1560803195",
+        "descrition" : "Andromon",
+        "level" : "Armor"
+    },
+    {
+        "id" : 3,
+        "image" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4fc9a23e-6052-4c8a-b15d-11fa2860733e/de8mt1d-0e867e0f-72e0-4ad3-87cf-1fdd5f2983e2.jpg/v1/fill/w_1280,h_854,q_75,strp/digimon__seadramon_by_lindseywart_de8mt1d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU0IiwicGF0aCI6IlwvZlwvNGZjOWEyM2UtNjA1Mi00YzhhLWIxNWQtMTFmYTI4NjA3MzNlXC9kZThtdDFkLTBlODY3ZTBmLTcyZTAtNGFkMy04N2NmLTFmZGQ1ZjI5ODNlMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cOE9MhwmEmfp_lpyPxqaUVKCCvmKmESJ00ztXn8icA4",
+        "descrition" : "Seadramon",
+        "level" : "Armor"
+    },
+    {
+        "id" : 4,
+        "image" : "https://files.cults3d.com/uploaders/23384057/illustration-file/ce308241-d01e-4732-b8c2-57670cb06188/ikkakumon2.jpg",
+        "descrition" : "Ikakumon",
+        "level" : "Armor"
+    }
+]
